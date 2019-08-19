@@ -729,7 +729,10 @@ button:active,
     display: none;
 }
 
-@media screen and (max-width: 960px) {
+
+/* code for tablet size */
+
+@media screen and (max-width: 768px) {
     /* Basic */
     html,
     body {
